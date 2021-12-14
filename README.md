@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey, ouyangyewei here! :wave:
 
-<!--
-**ouyangyewei/ouyangyewei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at Alibaba, focusing on Java, Kafka and distributed scheduling systems.
 
-Here are some ideas to get you started:
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-ouyangyewei-blue)](https://www.linkedin.com/in/ouyangyewei/)
+- [![Blog](https://img.shields.io/badge/Blog-yeweiouyang-orange)](https://blog.csdn.net/yeweiouyang)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :star2: Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouyangyewei&show_icons=true&cache_seconds=86400&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+#### :bar_chart: Monthly coding time
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
