@@ -11,7 +11,4 @@ I work at Alibaba, focusing on Java, Kafka and distributed scheduling systems.
 
 #### :bar_chart: Weekly Development Breakdown
 <!--START_SECTION:waka-->
-```text
-
-```
 <!--END_SECTION:waka-->
