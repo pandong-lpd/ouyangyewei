@@ -12,10 +12,10 @@ I work at Alibaba, focusing on Java, Kafka and distributed scheduling systems. I
 #### :bar_chart: Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Java   3 hrs 27 mins   ███████████████▒░░░░░░░░░   61.29 % 
-XML    1 hr 33 mins    ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-YAML   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-SQL    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Bash   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Java   6 hrs 47 mins   ██████████████████▓░░░░░░   74.50 % 
+XML    1 hr 39 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.23 % 
+YAML   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+SQL    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Bash   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
