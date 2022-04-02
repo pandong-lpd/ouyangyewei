@@ -13,12 +13,12 @@ I work at Alibaba, focusing on Java, Kafka and distributed scheduling systems. I
 <!--START_SECTION:waka-->
 
 ```text
-YAML             9 hrs 39 mins   █████████████░░░░░░░░░░░░   51.71 %
-Java             3 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-SQL              3 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-Shell Script     50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Bash             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Docker           26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+YAML             10 hrs 10 mins  ███████████▓░░░░░░░░░░░░░   47.13 %
+Java             4 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
+SQL              3 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+Bash             1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Shell Script     1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Docker           28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
