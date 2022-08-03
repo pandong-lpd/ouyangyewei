@@ -13,10 +13,7 @@ I work at Alibaba, focusing on distributed databases, currently learning TiKV, L
 <!--START_SECTION:waka-->
 
 ```text
-YAML       9 mins          ██████████████████████▓░░   90.81 %
-Bash       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
