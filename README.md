@@ -13,12 +13,12 @@ I work at Alibaba, focusing on distributed databases, currently learning TiKV, L
 <!--START_SECTION:waka-->
 
 ```text
-YAML             2 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   31.78 %
-Java             1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
-Text             1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-XML              49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-SQL              30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-Properties       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+YAML             3 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.52 %
+Java             2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.55 %
+Text             1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+SQL              1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+XML              1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Properties       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
