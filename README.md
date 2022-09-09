@@ -1,7 +1,7 @@
 ## Hey, ouyangyewei here! :wave:
 
 #### :rocket: About Me
-I work at Alibaba, focusing on distributed databases, currently learning TiKV, LevelDB, Kafka. I am passionate about contributing to widely used open source projects.
+I work at Alibaba, focusing on distributed databases, currently learning TiKV, LevelDB, Kafka, DolphinScheduler. I am passionate about contributing to widely used open source projects.
 
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-ouyangyewei-blue)](https://www.linkedin.com/in/ouyangyewei/)
 - [![Blog](https://img.shields.io/badge/Blog-yeweiouyang-orange)](https://blog.csdn.net/yeweiouyang)
