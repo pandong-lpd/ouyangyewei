@@ -13,7 +13,12 @@ I work at Alibaba, focusing on distributed databases, currently learning TiKV, L
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java           31 mins         ██████████████████████░░░   88.12 %
+TypeScript     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+HTML           1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Smarty         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+CSS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
