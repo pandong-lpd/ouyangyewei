@@ -12,7 +12,7 @@ I work at Alibaba, focusing on distributed databases, currently learning TiKV, L
 #### :bar_chart: Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Java           17 hrs 21 mins  ██████████████████████░░░   88.36 %
 SQL            1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
 XML            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
