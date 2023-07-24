@@ -13,11 +13,11 @@ I work at Alibaba, focusing on distributed databases, currently learning TiKV, L
 <!--START_SECTION:waka-->
 
 ```txt
-Java               6 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
-YAML               3 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
-Dockerfile         3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
-Text               2 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-XML                1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Java             7 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.17 %
+Dockerfile       2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+Text             2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+YAML             2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+XML              1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
 ```
 
 <!--END_SECTION:waka-->
