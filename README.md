@@ -13,11 +13,11 @@ I work at Alibaba, focusing on distributed databases, currently learning TiKV, L
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  7 hrs 50 mins   ███████████████▒░░░░░░░░░   61.53 %
-SQL                   1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-YAML                  58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Markdown              41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Bash                  35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Java                  8 hrs 12 mins   ███████████████░░░░░░░░░░   60.38 %
+SQL                   1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+YAML                  58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Markdown              41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Bash                  35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 
 <!--END_SECTION:waka-->
