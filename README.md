@@ -13,11 +13,11 @@ I work at Alibaba, focusing on distributed databases, currently learning TiKV, L
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx Configuration        8 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   35.14 %
-Lua                        3 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Other                      2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Java                       2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-YAML                       1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Nginx Configuration        6 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   32.19 %
+YAML                       2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Lua                        2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Java                       1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Other                      1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
 
 <!--END_SECTION:waka-->
